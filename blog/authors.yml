@@ -15,3 +15,13 @@ slorber:
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
+
+nate:
+  name: Nathaniel Chan
+  title : SevenNateNine
+  image_url: https://github.com/sevennatenine.png
+
+stanley: 
+  name: Stanley Lim
+  title: SpiderPig86
+  image_url: https://github.com/spiderpig86.png
